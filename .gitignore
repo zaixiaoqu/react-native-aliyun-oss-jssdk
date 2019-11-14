@@ -1,5 +1,5 @@
 android/build/
-android/aliyun-oss-react-native.iml
+android/react-native-aliyun-oss-sdk.iml
 node_modules/
 .idea
 .DS_Store
