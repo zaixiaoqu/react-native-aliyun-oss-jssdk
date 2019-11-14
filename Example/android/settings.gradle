@@ -1,7 +1,7 @@
 rootProject.name = 'Example'
 include ':react-native-image-picker'
 project(':react-native-image-picker').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-image-picker/android')
-include ':react-native-aliyun-oss-sdk'
-project(':react-native-aliyun-oss-sdk').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-aliyun-oss-sdk/android')
+include ':react-native-aliyun-oss-jssdk'
+project(':react-native-aliyun-oss-jssdk').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-aliyun-oss-jssdk/android')
 
 include ':app'
