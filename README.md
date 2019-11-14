@@ -1,4 +1,6 @@
 # Alibaba Cloud OSS SDK for React Native
+## 该项目来源于https://github.com/aliyun/aliyun-oss-react-native
+> 官方版本，无法再0.60以上版本中自动构建
 
 ## [README of Chinese](https://github.com/aliyun/aliyun-oss-react-native/blob/master/README-CN.md)
 
