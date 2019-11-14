@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aliyun/aliyun-oss-react-native.git"
+    "url": "git+https://github.com/zaixiaoqu/react-native-aliyun-oss-sdk.git"
   },
   "keywords": [
     "oss",
@@ -19,7 +19,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/aliyun/aliyun-oss-react-native/issues"
+    "url": "https://github.com/zaixiaoqu/react-native-aliyun-oss-sdk/issues"
   },
-  "homepage": "https://github.com/aliyun/aliyun-oss-react-native.git#readme"
+  "homepage": "https://github.com/zaixiaoqu/react-native-aliyun-oss-sdk.git#readme"
 }
