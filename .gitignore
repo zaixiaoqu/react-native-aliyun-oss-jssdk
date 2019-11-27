@@ -8,3 +8,7 @@ package-lock.json
 Example/ios/Example.xcodeproj/project.pbxproj
 ios/RNAliyunOSS.xcodeproj/project.xcworkspace/
 Example/package-lock.json
+
+android/.project
+android/.settings
+android/.gradle

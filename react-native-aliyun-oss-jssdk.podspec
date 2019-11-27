@@ -5,13 +5,13 @@ Pod::Spec.new do |s|
   s.name          = package['name']
   s.version       = package["version"]
   s.summary       = package['description']
-  s.author        = { 'albertluo' => 'luozhang002@126.com' }
+  s.authors      = { package["author"]["name"] => package["author"]["email"] }
   s.license       = package['license']
   s.homepage      = package['homepage']
-  s.source        = { :git => 'https://github.com/zaixiaoqu/react-native-aliyun-oss-jssdk.git' }
+  s.source       = { :git => package["repository"]["url"] }
   s.platform      = :ios, '8.0'
 
-  s.source_files  = 'ios/*.{h,m}'
+  s.source_files  = 'ios/*.{h,m}' 
 
   s.dependency 'React'
   s.dependency 'AliyunOSSiOS'
