@@ -12,3 +12,4 @@ Example/package-lock.json
 android/.project
 android/.settings
 android/.gradle
+android/.classpath
