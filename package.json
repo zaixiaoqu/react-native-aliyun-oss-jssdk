@@ -1,6 +1,6 @@
 {
   "name": "react-native-aliyun-oss-jssdk",
-  "version": "1.0.0-alpha.7.0.00.03",
+  "version": "1.0.0-alpha.7.0.00.04",
   "description": "React Native SDK for aliyun object storage service",
   "main": "index.js",
   "scripts": {
@@ -18,6 +18,10 @@
     "aliyun-oss-react-native",
     "react-native-aliyun-oss-jssdk"
   ],
+  "author": {
+    "name": "yusheng",
+    "email": "don@zaixiaoqu.cn"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/zaixiaoqu/react-native-aliyun-oss-jssdk/issues"

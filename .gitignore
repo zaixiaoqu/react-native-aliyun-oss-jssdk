@@ -13,3 +13,7 @@ android/.project
 android/.settings
 android/.gradle
 android/.classpath
+Example/android/.project
+Example/android/.settings
+Example/android/.gradle
+Example/android/.classpath
