@@ -1,7 +1,7 @@
 {
   "name": "react-native-aliyun-oss-jssdk",
-  "version": "1.0.0-alpha.7.0.00.05",
-  "description": "React Native SDK for aliyun object storage service",
+  "version": "1.0.0-alpha.7.0.00.07",
+  "description": "阿里云OSS文件上传",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

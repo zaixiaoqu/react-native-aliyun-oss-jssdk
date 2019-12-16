@@ -6,5 +6,3 @@
 
 ## 安装
 > yarn add react-native-aliyun-oss-jssdk
-
-* React Native Debugging: http://facebook.github.io/react-native/docs/debugging.html
