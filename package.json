@@ -1,6 +1,6 @@
 {
   "name": "react-native-aliyun-oss-jssdk",
-  "version": "1.0.0-alpha.7.0.00.08",
+  "version": "1.0.0-alpha.7.0.00.09",
   "description": "阿里云OSS文件上传",
   "main": "index.js",
   "scripts": {
